@@ -3,14 +3,14 @@ My first flutter game app
 # Customized Widgets look 👇
 <hr/>
 <div >
-    <img src="/home1.png" width="300px" height = "450px"</img>
-    <img src="/home2.png" width="300px" height = "450px"</img>
-     <img src="/home2.png" width="300px" height = "450px"</img>
+    <img src="/login.png" width="300px" height = "450px"</img>
+    <img src="/home.png" width="300px" height = "450px"</img>
+     <img src="/profile.png" width="300px" height = "450px"</img>
 </div>
 <div >
-    <img src="/home1.png" width="300px" height = "450px"</img>
-    <img src="/home2.png" width="300px" height = "450px"</img>
-     <img src="/home2.png" width="300px" height = "450px"</img>
+    <img src="/cat.png" width="300px" height = "450px"</img>
+    <img src="/ho.png" width="300px" height = "450px"</img>
+     <img src="/search.png" width="300px" height = "450px"</img>
 </div>
          
 <hr>
