@@ -1,7 +1,6 @@
 import 'package:blogui/other/constants.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-
 import '../posts/detailed_post.dart';
 import '../posts/edit_post.dart';
 
@@ -11,6 +10,7 @@ class Educationcat extends StatefulWidget {
   @override
   State<Educationcat> createState() => _EducationcatState();
 }
+
 
 class _EducationcatState extends State<Educationcat> {
   @override
