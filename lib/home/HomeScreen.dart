@@ -15,7 +15,6 @@ import '../other/constants.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen();
-
   @override
   State<HomeScreen> createState() => _HomeScreenState();
 }
