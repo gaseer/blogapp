@@ -10,7 +10,6 @@ import 'dart:io';
 import 'package:path/path.dart';
 import 'package:snippet_coder_utils/FormHelper.dart';
 
-
 class Image_Upload extends StatefulWidget {
   const Image_Upload({Key? key}) : super(key: key);
 
