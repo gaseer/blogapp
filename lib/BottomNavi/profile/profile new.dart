@@ -7,8 +7,6 @@ import 'package:flutter/material.dart';
 
 import '../../home/HomeScreen.dart';
 import '../../home/main.dart';
-
-
 import '../../login/sign_inn.dart';
 import '../../login/sign_upp.dart';
 import '../../other/constants.dart';
