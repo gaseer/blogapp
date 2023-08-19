@@ -27,7 +27,6 @@ class _editprofileState extends State<editprofile> {
   File? _images;
   final storage=FirebaseStorage.instance;
 
-
   TextEditingController titleController = TextEditingController();
   TextEditingController descriptionController = TextEditingController();
 
