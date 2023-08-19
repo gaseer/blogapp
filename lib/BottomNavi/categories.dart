@@ -1,9 +1,6 @@
 import 'package:blogui/other/constants.dart';
 import 'package:blogui/other/style.dart';
-import 'package:flutter/material.dart'
-
-
-;
+import 'package:flutter/material.dart';
 class CategoryPage extends StatelessWidget {
   const CategoryPage({Key? key}) : super(key: key);
   @override
