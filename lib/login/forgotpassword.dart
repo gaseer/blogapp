@@ -15,6 +15,7 @@ class _ForgottState extends State<Forgott> {
       decoration: BoxDecoration(
           image: DecorationImage(
               image: AssetImage("assets/images/back.jpg"), fit: BoxFit.cover
+            
           )
       ),
       child: Scaffold(
