@@ -28,6 +28,7 @@ class _HomeState extends State<Home> {
                   fontWeight: FontWeight.w500,
                 ),
                 ),
+                
                 IconButton(onPressed: () {}, icon: Icon(Icons.account_circle,size: 32,),),
                 IconButton(onPressed: () {}, icon: Icon(Icons.add,size: 50,),),
               ],
