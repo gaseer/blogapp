@@ -22,8 +22,6 @@ String  CurrentUserName ='';
 String  CurrentUserID ='';
 String  CurrentUserAbout ='';
 String  CurrentUserImage ='';
-
-
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
