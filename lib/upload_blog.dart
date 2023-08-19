@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 class UploadBlogView extends StatelessWidget {
   const UploadBlogView({Key? key}) : super(key: key);
 
+  
   @override
   Widget build(BuildContext context) {
     return SafeArea(
