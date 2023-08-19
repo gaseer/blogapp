@@ -29,6 +29,7 @@ class _My_blogsState extends State<My_blogs> {
                 Navigator.pop(context);
               }),
         ),
+      
         backgroundColor: Colors.black,
         body: StreamBuilder<QuerySnapshot>(
             stream: FirebaseFirestore.instance.collection("posts").where('postedby',isEqualTo: CurrentUserEmail).snapshots(),
