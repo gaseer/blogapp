@@ -6,9 +6,6 @@ class Post extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () {
-
-      },
       child: Material(
         elevation: 4,
         borderRadius: BorderRadius.circular(10),
