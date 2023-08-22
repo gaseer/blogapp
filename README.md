@@ -2,6 +2,7 @@
 Full-Fledeged project. 
 # Blogging platform 👇
 <hr/>
+
 <div >
     <img src="/login.png" width="300px" height = "450px"</img>
     <img src="/home.png" width="300px" height = "450px"</img>
