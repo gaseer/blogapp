@@ -8,6 +8,7 @@ Full-Fledeged project.
     <img src="/home.png" width="300px" height = "450px"</img>
      <img src="/profile.png" width="300px" height = "450px"</img>
 </div>
+
 <hr>
 <div >
     <img src="/cat.png" width="300px" height = "450px"</img>
